@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LezadaFrancisAdrian_Lab1</string>
+    <string name="last_name">Lezada</string>
+    <string name="first_name">Francis Adrian</string>
+    <string name="input_last_name"></string>
+    <string name="input_first_name"></string>
+</resources>
